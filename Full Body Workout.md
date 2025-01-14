@@ -29,6 +29,8 @@ Triceps
 Biceps
 Forearms
 Abs
+- Upper Abs
+Levitation Crunch
  - Lower Abs
 Swiper
 
@@ -63,6 +65,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQwNjQ5NjUsLTc3NjcxMzM1OCwtOD
+eyJoaXN0b3J5IjpbLTExMzM0MDk3MzIsLTc3NjcxMzM1OCwtOD
 QxMTE1NDgzXX0=
 -->
