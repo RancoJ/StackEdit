@@ -50,6 +50,12 @@ Brutal Six Pack Abs Workout (6:30) [https://athleanx.com/articles/abs-for-men/br
 5) 90-90 Crunch for 60 sec (Top Down)
 30 sec rest
 6) Starfish Crunch for 60 sec (Finisher)
+### Best Ab Workout at Home
+Side Bridge Twist - Lateral Flexion and Rotational Control
+Levitation Crunch - Upper Abs
+Swiper - Lower Abs
+Gymnast Ab Tuck - Lower Abs
+Sliding Ab Tuc
 
 
 
@@ -98,6 +104,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMjU0MTk4LC03NzY3MTMzNTgsLTg0MT
-ExNTQ4M119
+eyJoaXN0b3J5IjpbMTk4MjEzMDYzNywtNzc2NzEzMzU4LC04ND
+ExMTU0ODNdfQ==
 -->
