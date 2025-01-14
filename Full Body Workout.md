@@ -60,31 +60,15 @@ Sliding Ab Tuck - Entire Abdominal Area
 Side Crunch
 Side Bridge
 Elbow to Knee
+### Workouts Targeting Serratus
+Corkscrew
+Ref: [https://athleanx.com/articles/abs-for-men/abs-workouts#levitation-crunch]
 
-
-
-- Sliding Ab Tuck
-#### Rectus Abdominis Upper Region (Upper Abs)
-- Levitation Crunch
-#### Rectus Abdominis Lower Region (Lower Abs)
-- Swiper
-- Gymnast Ab Tuck
-#### Obliques
-#### Serratus
-- 
-Levitation Crunch
- - Lower Abs
-Swiper
-
-- Sliding Abs Tuck
-- Swiper
-
----
 
 
 
 ---
-References:
+
 
 ---
 
@@ -107,6 +91,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMTk2NDYyLC03NzY3MTMzNTgsLTg0MT
-ExNTQ4M119
+eyJoaXN0b3J5IjpbLTE0OTA4OTI4MjksLTc3NjcxMzM1OCwtOD
+QxMTE1NDgzXX0=
 -->
