@@ -25,6 +25,9 @@ Back
 Shoulders
 Triceps
 Biceps
+
+---
+
 ## Forearms
 ### Best Forearm Workout
 Prone Wrist Curl
@@ -43,12 +46,10 @@ Forearm Extensor Push-ups
 Backpack Reverse Curl
 Backpack Classic Wrist Curl
 Backpack Extensor Wrist Curl
-
-
-
-
-
-
+### Get Bigger Forearms
+Battle Ropes
+Reverse Grip Cable Curls
+Pick Up Your Plates
 
 ref: [https://athleanx.com/articles/forearm-workouts]
 
@@ -119,6 +120,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkzNTIwMTEsLTE0OTA4OTI4MjksLT
-c3NjcxMzM1OCwtODQxMTE1NDgzXX0=
+eyJoaXN0b3J5IjpbMTY2MDk1NTIyNywtMTQ5MDg5MjgyOSwtNz
+c2NzEzMzU4LC04NDExMTU0ODNdfQ==
 -->
