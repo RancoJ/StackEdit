@@ -7,14 +7,28 @@ Targeted Muscles list:
 Legs
 Glutes
 Chest
-Abs
 Back
 Shoulders
 Triceps
 Biceps
 Forearms
+Abs
 
+---
 
+Best Exercise for the targeted muscle group
+
+Legs
+- df
+
+Glutes
+Chest
+Back
+Shoulders
+Triceps
+Biceps
+Forearms
+Abs
 
 ---
 
@@ -44,6 +58,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTg1NDUzMSwtNzc2NzEzMzU4LC04ND
+eyJoaXN0b3J5IjpbLTMyMTc2NzE4MCwtNzc2NzEzMzU4LC04ND
 ExMTU0ODNdfQ==
 -->
