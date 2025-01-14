@@ -41,12 +41,15 @@ Forearms
 5. Top down rotation
 6. Top down
 example:
+(6:30)
 1) One Up One Down for 60 sec (Lower Abs)
 2) Twisting Pistons for 60 sec (Bottom Up Rotation/Obliques)
 30 sec rest
 3) Hands Free Tucks for 60 sec (Mid-Range)
 4) Starfish Crunch for 30 sec (Top Down Rotation)
 5) 90-90 Crunch for 60 sec (Top Down)
+30 sec rest
+6) Starfish Crunch for 60 sec (Finisher)
 
 
 
@@ -95,6 +98,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjg0MjM2NSwtNzc2NzEzMzU4LC04ND
-ExMTU0ODNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTYwNjU5NTYsLTc3NjcxMzM1OCwtOD
+QxMTE1NDgzXX0=
 -->
