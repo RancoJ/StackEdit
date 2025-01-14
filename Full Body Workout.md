@@ -4,19 +4,19 @@ Full body workout
 
 Targeted Muscles list:
 
-
-Upper Legs
+Legs
 Glutes
-Shoulders
 Chest
-
 Abs
 Back
-Biceps
-Chest
-Legs
-Forearms
 Shoulders
+Triceps
+Biceps
+Forearms
+
+
+
+---
 
 
 
@@ -44,6 +44,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDY3OTc3NSwtNzc2NzEzMzU4LC04ND
+eyJoaXN0b3J5IjpbLTk4OTg1NDUzMSwtNzc2NzEzMzU4LC04ND
 ExMTU0ODNdfQ==
 -->
