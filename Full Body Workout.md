@@ -40,6 +40,9 @@ Forearms
 4. Mid-range
 5. Top down rotation
 6. Top down
+example:
+1) One Up One Down for 60 sec (Lower Abs)
+2) Twisting Pistons for 60 sec (Bottom Up Rotation/Obliques)
 
 
 
@@ -87,6 +90,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNTk0OTk2LC03NzY3MTMzNTgsLTg0MT
-ExNTQ4M119
+eyJoaXN0b3J5IjpbMTI1MDAzNjY0MSwtNzc2NzEzMzU4LC04ND
+ExMTU0ODNdfQ==
 -->
