@@ -35,7 +35,14 @@ Clip Squeezes
 Dead Arm Hang
 ### Best Dumbbell Forearm Workout
 Farmer's Carry
-Offset Dumbbell
+Offset Dumbbell Reverse Curl
+Reverse Curl
+### Forearm Workouts at Home
+Forearm Flexor Push-ups
+Forearm Extensor P
+
+
+
 
 
 
@@ -108,6 +115,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDQ3MDEyNiwtMTQ5MDg5MjgyOSwtNz
+eyJoaXN0b3J5IjpbMTI1NzQ5ODgwMiwtMTQ5MDg5MjgyOSwtNz
 c2NzEzMzU4LC04NDExMTU0ODNdfQ==
 -->
