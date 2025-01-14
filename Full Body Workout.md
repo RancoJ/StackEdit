@@ -29,7 +29,7 @@ Biceps
 ###
 
 
-ref: [https://athleanx.com/articles/forearms-for-men]
+ref: [https://athleanx.com/articles/forearm-workouts]
 
 ---
 
@@ -69,7 +69,7 @@ Side Bridge
 Elbow to Knee
 ### Workouts Targeting Serratus
 Corkscrew
-Ref: [https://athleanx.com/articles/abs-for-men/abs-workouts#levitation-crunch]
+Ref: [https://athleanx.com/articles/abs-for-men/abs-workouts]
 
 
 
@@ -98,6 +98,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3Njg1MDg2LC0xNDkwODkyODI5LC03Nz
-Y3MTMzNTgsLTg0MTExNTQ4M119
+eyJoaXN0b3J5IjpbMTY0OTg0MTQwNywtMTQ5MDg5MjgyOSwtNz
+c2NzEzMzU4LC04NDExMTU0ODNdfQ==
 -->
