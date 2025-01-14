@@ -26,6 +26,10 @@ Shoulders
 Triceps
 ## Biceps
 ### Best Biceps Workout for Mass
+#### 1A & 1B) The "Big Exercise"
+Cheat Curl
+Drag Curl
+#### 2A & 2B) Hitting all 3 functiiThe "Big Exercise"
 
 
 ref: [https://athleanx.com/articles/the-perfect-biceps-workout]
@@ -124,6 +128,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNzcyMzc3LC0xNDkwODkyODI5LC03Nz
+eyJoaXN0b3J5IjpbOTA0ODExNzIxLC0xNDkwODkyODI5LC03Nz
 Y3MTMzNTgsLTg0MTExNTQ4M119
 -->
