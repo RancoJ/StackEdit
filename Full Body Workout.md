@@ -46,6 +46,7 @@ example:
 30 sec rest
 3) Hands Free Tucks for 60 sec (Mid-Range)
 4) Starfish Crunch for 30 sec (Top Down Rotation)
+5) 90-90 Crunch for 60 sec (Top Down)
 
 
 
@@ -94,6 +95,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTUzMzY5LC03NzY3MTMzNTgsLTg0MT
-ExNTQ4M119
+eyJoaXN0b3J5IjpbMTMzMjg0MjM2NSwtNzc2NzEzMzU4LC04ND
+ExMTU0ODNdfQ==
 -->
