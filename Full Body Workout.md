@@ -33,6 +33,16 @@ Forearms
 3. Internal Obliques
 4. Transverse Abdominis (Core Stablizer Muscles)
 5. Serratus
+### 'Six Pack Progression' training programme
+1. Lower abs
+2. Bottom up
+3. Obliques
+4. Mid-range
+5. Top down rotation
+6. Top down
+
+
+
 - Sliding Ab Tuck
 #### Rectus Abdominis Upper Region (Upper Abs)
 - Levitation Crunch
@@ -77,6 +87,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY1NTU1NTEsLTc3NjcxMzM1OCwtOD
-QxMTE1NDgzXX0=
+eyJoaXN0b3J5IjpbNjQwNTk0OTk2LC03NzY3MTMzNTgsLTg0MT
+ExNTQ4M119
 -->
