@@ -39,6 +39,11 @@ Diamond Push Up
 ### Best Triceps Workout
 #### Progressive Overload
 Close Grip Pin Press
+#### Long Head Stretch
+Cable Triceps Pushaway
+Drag Pushdown
+#### Addressing the Strength Curves
+Rocking Triceps Pushdown
 
 
 
@@ -160,5 +165,5 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjQ3MDg3OSwtMjExODY2MTA1OF19
+eyJoaXN0b3J5IjpbMTU0NzM5MjM1NCwtMjExODY2MTA1OF19
 -->
