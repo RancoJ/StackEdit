@@ -41,7 +41,8 @@ Front Delt Raise
 #### 3A) & 3B) Explosiveness an Working all shoulder girdle muscles together
 Cheat Lateral into Dumbbell Push Press
 #### 4) Target Rear Delt
-C
+Cable Face Pull
+Banded Face Pull
 
 
 
@@ -195,6 +196,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTEyMDMwMSwtOTExNTU4NzkxLDQ1NT
+eyJoaXN0b3J5IjpbMTg5NDM0MzkwMSwtOTExNTU4NzkxLDQ1NT
 gyODM4MSwtMjExODY2MTA1OF19
 -->
