@@ -21,7 +21,16 @@ Abs
 Legs
 Glutes
 Chest
-Back
+
+---
+
+## Back
+
+
+
+
+
+Ref: [https://athleanx.com/articles/back-for-men/the-perfect-back-workout]
 
 ---
 
@@ -199,6 +208,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzA0NDczNSwtMTEwMTQzOTQyMSwtOT
+eyJoaXN0b3J5IjpbLTY0NzE4NzgxNywtMTEwMTQzOTQyMSwtOT
 ExNTU4NzkxLDQ1NTgyODM4MSwtMjExODY2MTA1OF19
 -->
