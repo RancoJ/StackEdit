@@ -25,6 +25,8 @@ Back
 Traps
 Shoulders
 
+
+
 ---
 
 ## Triceps
@@ -50,9 +52,8 @@ Triceps Extension with EZ Curl Bar
 Dumbbell Upright Dip - Strength
 Dumbbell JM Press - Power
 Lying Dumbbell Tricep Extension - Hypertrophy
-
-
-
+Floor Dip into Close Grip Dumbbell Push up - Metabolic
+Overhead Extension Thruster - Total Body
 
 ref: [https://athleanx.com/articles/tricep-workouts]
 
@@ -171,5 +172,5 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTYwODY2NiwtMjExODY2MTA1OF19
+eyJoaXN0b3J5IjpbNDU1ODI4MzgxLC0yMTE4NjYxMDU4XX0=
 -->
