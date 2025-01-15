@@ -44,11 +44,6 @@ Cheat Lateral into Dumbbell Push Press
 Cable Face Pull
 Banded Face Pull
 
-
-
-
-
-
 Ref: [https://athleanx.com/articles/shoulders-for-men/the-perfect-shoulder-workout]
 
 ---
@@ -196,6 +191,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDM0MzkwMSwtOTExNTU4NzkxLDQ1NT
-gyODM4MSwtMjExODY2MTA1OF19
+eyJoaXN0b3J5IjpbLTExMDE0Mzk0MjEsLTkxMTU1ODc5MSw0NT
+U4MjgzODEsLTIxMTg2NjEwNThdfQ==
 -->
