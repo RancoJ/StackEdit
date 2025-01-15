@@ -33,8 +33,10 @@ Barbell Deadlift
 Weighted Chin Up
 #### 2A) & 2B) Switching Grips
 Wide Grip Pull-up
-#### Explosivity
-
+#### 3) Explosivity
+Barbell Dead Row
+#### 4) The Lats
+Option 1: Alternating High Cable Row
 
 
 
@@ -217,6 +219,7 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzIxMTM5NywtMTEwMTQzOTQyMSwtOT
-ExNTU4NzkxLDQ1NTgyODM4MSwtMjExODY2MTA1OF19
+eyJoaXN0b3J5IjpbMjQzNjEwNzg5LDE5NzcyMTEzOTcsLTExMD
+E0Mzk0MjEsLTkxMTU1ODc5MSw0NTU4MjgzODEsLTIxMTg2NjEw
+NThdfQ==
 -->
