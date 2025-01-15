@@ -37,7 +37,9 @@ Wide Grip Pull-up
 Barbell Dead Row
 #### 4) The Lats
 Option 1: Alternating High Cable Row
-
+Option 2: Rocking Pulldown
+#### 5) The Smaller Muscles
+Hyper Y W Combo
 
 
 
@@ -219,7 +221,7 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNjEwNzg5LDE5NzcyMTEzOTcsLTExMD
-E0Mzk0MjEsLTkxMTU1ODc5MSw0NTU4MjgzODEsLTIxMTg2NjEw
-NThdfQ==
+eyJoaXN0b3J5IjpbLTEzMTM2NjgxMTcsMTk3NzIxMTM5NywtMT
+EwMTQzOTQyMSwtOTExNTU4NzkxLDQ1NTgyODM4MSwtMjExODY2
+MTA1OF19
 -->
