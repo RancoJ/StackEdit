@@ -25,7 +25,11 @@ Chest
 ---
 
 ## Back
-
+### Back Day Workout: Step by Step
+#### The Warm Up
+Straight Arm Pushdown
+#### 1A) & 1B) Compound Lifts
+Ba
 
 
 
@@ -208,6 +212,6 @@ Here is how to construct the perfect total body workout B:
 6. DB Overhead Farmer’s Carries - 3-4 x 50 steps with one quarter bodyweight
 7. Face Pulls or other corrective - 2 x 12 (using 12 sets of 1 mentality)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzE4NzgxNywtMTEwMTQzOTQyMSwtOT
-ExNTU4NzkxLDQ1NTgyODM4MSwtMjExODY2MTA1OF19
+eyJoaXN0b3J5IjpbLTE0ODgzMzQ3ODksLTExMDE0Mzk0MjEsLT
+kxMTU1ODc5MSw0NTU4MjgzODEsLTIxMTg2NjEwNThdfQ==
 -->
