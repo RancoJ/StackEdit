@@ -79,7 +79,7 @@ WHOOP: https://JOIN.WHOOP.COM/CEO for one month free
 
 ### Summary
 
-This in-depth discussion with biochemist Jesse Inospay, known as the "glucose goddess," centers on **how maternal diet during pregnancy programs a baby’s DNA**, impacting their development and lifelong health risks. Jesse highlights critical nutritional gaps in pregnancy diets, emphasizes the role of glucose management, and challenges common misconceptions about pregnancy nutrition, exercise, and lifestyle.
+This in-depth discussion with biochemist Jesse Inchauspé, known as the "glucose goddess," centers on **how maternal diet during pregnancy programs a baby’s DNA**, impacting their development and lifelong health risks. Jesse highlights critical nutritional gaps in pregnancy diets, emphasizes the role of glucose management, and challenges common misconceptions about pregnancy nutrition, exercise, and lifestyle.
 
 ---
 
@@ -206,7 +206,7 @@ This in-depth discussion with biochemist Jesse Inospay, known as the "glucose go
 
 ---
 
-This summary reflects the comprehensive, evidence-based insights shared by Jesse # Inchauspé on pregnancy nutrition, glucose regulation, and fetal development, highlighting both scientific findings and practical advice for parents and healthcare providers.
+This summary reflects the comprehensive, evidence-based insights shared by Jesse Inchauspé on pregnancy nutrition, glucose regulation, and fetal development, highlighting both scientific findings and practical advice for parents and healthcare providers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDE0OTg1Ml19
+eyJoaXN0b3J5IjpbMTk4MDc4NTc2XX0=
 -->
